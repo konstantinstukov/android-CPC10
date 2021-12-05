@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">android-CPC10</string>
+    <string name="home">Home</string>
+    <string name="first_fragment">First fragment</string>
+    <string name="second_fragment">Second fragment</string>
+    <string name="hello_it_s_a_home_page">Hello! It\'s a Home page.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="i_am_the_second_fragment">I am the second fragment!</string>
+    <string name="i_am_the_first_fragment">I am the first fragment!</string>
+</resources>
